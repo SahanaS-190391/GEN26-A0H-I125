@@ -6,7 +6,7 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
+|   Team Leader   |      S Sahana           |    CB.EN.U4CHE25029    |   Female        |  Chemical                       |  
 |    Member 2     |                         |                        |                 |                                 |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
