@@ -6,8 +6,8 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |      S Sahana           |    CB.EN.U4CHE25029    |   Female        |  Chemical                       |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|   Team Leader   |      S Sahana           |    CB.EN.U4CHE25056    |   Female        |  Chemical                       |  
+|    Member 2     |      Naman Goyal        |    CB.EN.U4CHE25029    |   Male          |  Chemical                       |  
+|    Member 3     |      R Varunya          |    CB.EN.U4CHE25049    |   Female        |  Chemical                       |  
+|    Member 4     |      R Subhashini       |    CB.EN.U4CHE25036    |   Female        |  Chemical                       |   
 
